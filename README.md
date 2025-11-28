@@ -7,11 +7,6 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 For all the curious kids out there who open their toys to see what inside. Who asking questions at the right time.
 
 ### Table of Contents
-
-
-- [Circuits simulations in LTSpiceIV improved](#circuits-simulations-in-ltspiceiv-improved)
-  - [Motivation](#motivation)
-  - [Table of Contents](#table-of-contents)
   - [Amplifiers](#amplifiers)
   - [Basic Electronic Components](#basic-electronic-components)
   - [Basics](#basics)
