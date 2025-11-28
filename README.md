@@ -3,6 +3,7 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 For all the curious kids out there who open their toys to see what inside. Who asking questions at the right time.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ### Table of Contents
   - [Amplifiers](#amplifiers)
   - [Basic Electronic Components](#basic-electronic-components)
@@ -30,6 +31,8 @@ For all the curious kids out there who open their toys to see what inside. Who a
   - [Transformer](#transformer)
     - [Transmission-and-Power-Lines](#transmission-and-power-lines)
 =======
+=======
+>>>>>>> Stashed changes
 - [Amplifiers](#amplifiers)
 - [Basic Electronic Components](#basic-electronic-components)
 - [Basics](#basics)
@@ -55,6 +58,9 @@ For all the curious kids out there who open their toys to see what inside. Who a
 - [Simulation-Techniques](#simulation-techniques)
 - [Transformer](#transformer)
   - [Transmission-and-Power-Lines](#transmission-and-power-lines)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ---
