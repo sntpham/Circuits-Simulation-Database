@@ -47,13 +47,6 @@ For all the curious kids out there who open their toys to see what inside. Who a
 | Push-pull-amplifier-operational-amplifier.asc   | ![1764300757494](image/README/1764300757494.png) |
 | Push-pull-amplifier.asc                         | ![1764300776960](image/README/1764300776960.png) |
 
-### Basic Electronic Components
-
-| Name     | Img |
-| -------- | --- |
-| Diode.md |     |
-| OpAmp.md |     |
-
 ### Basics
 
 | Name                                  | Img                                                                                                                                             |
@@ -135,8 +128,6 @@ For all the curious kids out there who open their toys to see what inside. Who a
 | RLC-step-response-resonance-frequency-series-parallel.asc |     |
 | RLC-underdamped-series-parallel.py                        |     |
 
-### How to solder SMD
-
 ### Input stages
 
 | Name                         | Img/Des |
@@ -186,25 +177,27 @@ For all the curious kids out there who open their toys to see what inside. Who a
 
 ### Power-Electronics
 
-| Name                                                  | Img                                            |
-| ----------------------------------------------------- | ---------------------------------------------- |
-| Boost-converter-1.asc                                 | ![1764301078381](image/README/1764301078381.png) |
-| Boost-converter-2.asc                                 | ![1764301112994](image/README/1764301112994.png) |
-| Buck-converter.asc                                    | ![1764360664443](image/README/1764360664443.png) |
-| Cockcroft-walton-multiplier.asc                       | ![1764360864317](image/README/1764360864317.png) |
-| DCDC-full-bridge.asc                                  | ![1764359423434](image/README/1764359423434.png) |
-| Full-bridge-inverter.asc                              | ![1764360510198](image/README/1764360510198.png) |
-| Full-bridge-rectifier.asc                             | ![1764301381640](image/README/1764301381640.png) |
-| Half-bridge-inverter.asc                              | ![1764362019759](image/README/1764362019759.png) |
-| Single-phase-rectifier-constant-current-load.asc      | ![1764357326623](image/README/1764357326623.png) |
-| Single-phase-rectifier-constant-voltage-load.asc      | ![1764357475053](image/README/1764357475053.png) |
-| Single-phase-rectifier-R-load-smoothing-capacitor.asc | ![1764359089291](image/README/1764359089291.png) |
-| soft-starter-12V.asc                                  | ![1764349019772](image/README/1764349019772.png) |
-| Three-phase-full-bridge-inverter.asc                  | ![1764354429254](image/README/1764354429254.png) |
-| Three-phase-naive-inverter.asc                        | ![1764348889523](image/README/1764348889523.png) |
-| Three-phase-naive-supply-system.asc                   | ![1764346979800](image/README/1764346979800.png) |
-| Three-phase-rectifier.asc                             | ![1764345869685](image/README/1764345869685.png) |
-| Example-gain-symbols.asc                              | ![1764355634970](image/README/1764355634970.png) |
+| Name                                                                         | Img                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Boost-converter](Misc\Basic Electronic Components\Boost-converter.md)-1.asc | ![1764301078381](image/README/1764301078381.png)                                                                                                                                       |
+|                                                                              | Boost converter using the high voltage change during switch OFF<br />from the inductor to continue charge the capacitor.<br />The gain is define by duty cycle (D). D = 1 - Vin/Vout |
+| Boost-converter-2.asc                                                        | ![1764301112994](image/README/1764301112994.png)                                                                                                                                       |
+| Buck-converter.asc                                                           | ![1764360664443](image/README/1764360664443.png)                                                                                                                                       |
+|                                                                              | Buck converter reduce voltage with PWM.<br />According to The Art of Electronic, we can consider LC <br />as a low pass filter to smooth out the output voltage                     |
+| Cockcroft-walton-multiplier.asc                                              | ![1764360864317](image/README/1764360864317.png)                                                                                                                                       |
+| DCDC-full-bridge.asc                                                         | ![1764359423434](image/README/1764359423434.png)                                                                                                                                       |
+| Full-bridge-inverter.asc                                                     | ![1764360510198](image/README/1764360510198.png)                                                                                                                                       |
+| Full-bridge-rectifier.asc                                                    | ![1764301381640](image/README/1764301381640.png)                                                                                                                                       |
+| Half-bridge-inverter.asc                                                     | ![1764362019759](image/README/1764362019759.png)                                                                                                                                       |
+| Single-phase-rectifier-constant-current-load.asc                             | ![1764357326623](image/README/1764357326623.png)                                                                                                                                       |
+| Single-phase-rectifier-constant-voltage-load.asc                             | ![1764357475053](image/README/1764357475053.png)                                                                                                                                       |
+| Single-phase-rectifier-R-load-smoothing-capacitor.asc                        | ![1764359089291](image/README/1764359089291.png)                                                                                                                                       |
+| soft-starter-12V.asc                                                         | ![1764349019772](image/README/1764349019772.png)                                                                                                                                       |
+| Three-phase-full-bridge-inverter.asc                                         | ![1764354429254](image/README/1764354429254.png)                                                                                                                                       |
+| Three-phase-naive-inverter.asc                                               | ![1764348889523](image/README/1764348889523.png)                                                                                                                                       |
+| Three-phase-naive-supply-system.asc                                          | ![1764346979800](image/README/1764346979800.png)                                                                                                                                       |
+| Three-phase-rectifier.asc                                                    | ![1764345869685](image/README/1764345869685.png)                                                                                                                                       |
+| Example-gain-symbols.asc                                                     | ![1764355634970](image/README/1764355634970.png)                                                                                                                                       |
 
 ### Power-Sources
 
