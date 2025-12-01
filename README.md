@@ -88,17 +88,17 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 
 #### RC
 
-| Name                                    | Img                                            |
-| --------------------------------------- | ---------------------------------------------- |
-| RC-bandpass-filter-frequency-domain.asc | ![1764465693109](image/README/1764465693109.png) |
-| RC-highpass-frequency-domain.asc        |                                                |
-| RC-lowpass-frequency-domain.asc         |                                                |
-| RC-lowpass-cascaded.asc                 |                                                |
-| RC-lowpass-step-response.asc            |                                                |
-| RC-lowpass.asc                          | ![1764465389586](image/README/1764465389586.png) |
-| RC-sawtooth-response.asc                |                                                |
-| RC-square-wave-response.asc             |                                                |
-| RC.py                                   |                                                |
+| Name                                    | Img                                                                                                            |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| RC-bandpass-filter-frequency-domain.asc | ![1764465693109](image/README/1764465693109.png)                                                                 |
+| RC-highpass-frequency-domain.asc        | ![1764521426390](image/README/1764521426390.png)                                                                 |
+| RC-lowpass-frequency-domain.asc         | ![1764521477269](image/README/1764521477269.png)                                                                 |
+| RC-lowpass-cascaded.asc                 | ![1764521549155](image/README/1764521549155.png)<br /><br />Output of lowpass number two as stronger attenuation |
+| RC-lowpass-step-response.asc            | ![1764521936799](image/README/1764521936799.png)                                                                 |
+| RC-lowpass.asc                          | ![1764465389586](image/README/1764465389586.png)                                                                 |
+| RC-sawtooth-response.asc                | ![1764522030919](image/README/1764522030919.png)                                                                 |
+| RC-square-wave-response.asc             | ![1764522070018](image/README/1764522070018.png)                                                                 |
+| RC.py                                   |                                                                                                                |
 
 #### RL
 
