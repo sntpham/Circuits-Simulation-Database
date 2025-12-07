@@ -255,7 +255,7 @@ Below are the circuits with simulation. Additionally, more notes can be found in
 | Worst-Case-Scenario-2-Simulation-LTSpice.asc     |     |
 | Worst-Case-Scenario-Simulation-LTSpice.asc       |     |
 
-### [Transformer](Misc\Basic-Electronic-Components\Transformer.md)
+### [Transformer](Misc\Basic-Electronic-Components/Transformer.md)
 
 | Name                                                                       | Img                                            |
 | -------------------------------------------------------------------------- | ---------------------------------------------- |
