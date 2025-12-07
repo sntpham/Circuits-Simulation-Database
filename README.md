@@ -3,10 +3,14 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 > [!NOTE]
 > For all the curious kids out there who open their toys to see what inside. Who asking questions at the right time.
 
+
+
+Below are the circuits with simulation. Additionally, more notes can be found in [Misc](Misc/LTSpice-for-beginner.md)
+
 - [Amplifiers](#amplifiers)
 - [Basics](#basics)
 - [Comparator circuits](#comparator-circuits)
-  - [other circuits with hysteresis](#other-circuits-with-hysteresis)
+  - [Other circuits with hysteresis](#other-circuits-with-hysteresis)
 - [Controller-control-systems](#controller-control-systems)
 - [Filters](#filters)
   - [RC](#rc)
@@ -56,6 +60,7 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 | Parallel-resistor-when-negligible.asc | ![1764363998463](image/README/1764363998463.png)                                                                                                  |
 | PNP-transistor-biasing.asc            | ![1764364712101](image/README/1764364712101.png)                                                                                                  |
 | Transistor-beta.asc                   | ![1764364888680](image/README/1764364888680.png)                                                                                                  |
+| RC-with-switch.asc                    | ![1765086382154](image/README/1765086382154.png)                                                                                                  |
 
 ### Comparator circuits
 
@@ -69,7 +74,7 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 | zero-crossing-detector-2.asc                              | ![1764365900676](image/README/1764365900676.png) |
 | zero-crossing-detector.asc                                | ![1764365857128](image/README/1764365857128.png) |
 
-#### other circuits with hysteresis
+#### Other circuits with hysteresis
 
 | Name                       | Img                                            |
 | -------------------------- | ---------------------------------------------- |
@@ -250,7 +255,7 @@ Continue building more circuit based on [mick001 (Michy)](https://github.com/mic
 | Worst-Case-Scenario-2-Simulation-LTSpice.asc     |     |
 | Worst-Case-Scenario-Simulation-LTSpice.asc       |     |
 
-### [Transformer](/Transformer/)
+### [Transformer](Misc\Basic-Electronic-Components\Transformer.md)
 
 | Name                                                                       | Img                                            |
 | -------------------------------------------------------------------------- | ---------------------------------------------- |
