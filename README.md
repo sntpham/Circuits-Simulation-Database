@@ -203,7 +203,7 @@ Below are the circuits with simulation. Additionally, more notes can be found in
 | [Raw-voltage-regulator-with-zener-diode](Misc/Basic-Electronic-Components/Raw-voltage-regulator-with-zener-diode.md).asc | ![1764453925162](image/README/1764453925162.png)                                                                                                                                                                                                                                         |
 | Voltage-regulator-npn.asc                                                                                             | ![1764439602290](image/README/1764439602290.png)<br />As you see in the figure above, Vref is linearly match with Vout.                                                                                                                                                                 |
 | Voltage-doubler.asc                                                                                                   | ![1765464547499](image/README/1765464547499.png)                                                                                                                                                                                                                                         |
-| [Voltage-doubler-villard](Power-Electronics/Voltage-doubler-villard.md).asc                                              |                                                                                                                                                                                                                                                                                        |
+| [Voltage-doubler-villard](Power-Electronics/Voltage-doubler-villard.md).asc                                              | ![1765474464570](image/README/1765474464570.png)                                                                                                                                                                                                                                         |
 
 ### Protection Circuit
 
@@ -289,4 +289,4 @@ For example, I attached a transfomer's circuit once and it parsed the wrong dot 
 
 Additionally, imagine one day there is an outage and you are an engineer without Chatgpt or AI access what would you do in this case?
 
-"to be or not to be..." the choice is in our hand.
+"to be or not to be... an independent human bean :) " the choice is in our hand.
