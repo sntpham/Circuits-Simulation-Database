@@ -107,21 +107,20 @@ Below are the circuits with simulation. Additionally, more notes can be found in
 
 | Name            | Img                                            |
 | --------------- | ---------------------------------------------- |
-| RL-highpass.asc |                                                |
+| RL-highpass.asc | ![1765994735958](image/README/1765994735958.png) |
 | RL-lowpass.asc  | ![1764465823388](image/README/1764465823388.png) |
-| RL.py           |                                                |
 
 #### RLC
 
-| Name                                                      | Img |
-| --------------------------------------------------------- | --- |
-| LC-and-RC-series-bandpass-filter.asc                      |     |
-| Notch-and-band-suppress-filters.asc                       |     |
-| RLC-critically-damped-series-parallel.py                  |     |
-| RLC-overdamped-series-parallel.py                         |     |
-| RLC-step-response-example.asc                             |     |
-| RLC-step-response-resonance-frequency-series-parallel.asc |     |
-| RLC-underdamped-series-parallel.py                        |     |
+| Name                                                      | Img                                            |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| LC-and-RC-series-bandpass-filter.asc                      | ![1765995147099](image/README/1765995147099.png) |
+| Notch-and-band-suppress-filters.asc                       |                                                |
+| RLC-critically-damped-series-parallel.py                  |                                                |
+| RLC-overdamped-series-parallel.py                         |                                                |
+| RLC-step-response-example.asc                             |                                                |
+| RLC-step-response-resonance-frequency-series-parallel.asc |                                                |
+| RLC-underdamped-series-parallel.py                        |                                                |
 
 ### Input stages
 
@@ -172,11 +171,12 @@ Below are the circuits with simulation. Additionally, more notes can be found in
 
 | Name                                                                             | Img                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Boost-converter](Misc/Basic-Electronic-Components/Boost-converter.md)-1.asc        | ![1764301078381](image/README/1764301078381.png)                                                                                                                                                                                                                                                                                                                                                                               |
+| [Boost-converter](Misc/Basic-Electronic-Components/Boost-converter.md)-1.asc        | ![1764301078381](image/README/boost-circuit.png)                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                  | Boost converter using the high voltage change during switch OFF<br />from the inductor to continue charge the capacitor.<br />The gain is define by duty cycle (D). D = 1 - Vin/Vout<br /><br />![1764427718609](image/README/1764427718609.png)<br />10u<br />Setup with Arduino is available here: <br />https://www.tinkercad.com/things/2v9zF7lDCHd-boost-converter?sharecode=GUI-prjcMQ9xBO0XAoe3_zGsIDaZpps5Eg2EJEY_V8A |
 |                                                                                  | ![1764437149941](image/README/1764437149941.png)                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                  | I believe in learning or doing small but steady. I just submited my design, hopefully we can assemble<br />everything before 2026. I think this is the best way to learn electronics in general: Sim > Build > Test > Enjoy!                                                                                                                                                                                                 |
+|                                                                                  | I believe in learning or doing small but steady. I just submited my design, hopefully we can assemble<br />everything before 2026. I think this is the best way to learn electronics in general: Sim > Build > Test > Enjoy!<br />Please click on the link on the left to see the actual PCB and my note.                                                                                                                   |
 | Boost-converter-2.asc                                                            | ![1764301112994](image/README/1764301112994.png)                                                                                                                                                                                                                                                                                                                                                                               |
+| Boost-converter-3.asc                                                            | ![1766022948986](image/README/1766022948986.png)                                                                                                                                                                                                                                                                                                                                                                               |
 | Buck-converter.asc                                                               | ![1764360664443](image/README/1764360664443.png)                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                  | Buck converter reduce voltage with PWM.<br />According to The Art of Electronic, we can consider LC <br />as a low pass filter to smooth out the output voltage                                                                                                                                                                                                                                                             |
 | [Cockcroft-walton-multiplier](Power-Electronics/Cockcroft-walton-multiplier.md).asc | ![1764360864317](image/README/1764360864317.png)                                                                                                                                                                                                                                                                                                                                                                               |
@@ -277,13 +277,11 @@ Below are the circuits with simulation. Additionally, more notes can be found in
 | Power-line-power-transmission-calculations.xlsx |     |
 | Power-line-power-transmission.asc               |     |
 
-
-
 # Note
 
-So what is the point of doing this? You may ask and probally saying chatGPT can perform it better. 
+So what is the point of doing this? You may ask and probally saying chatGPT can perform it better.
 
-I used chatgpt to learn as well, but sometimes, I see it make mistake. 
+I used chatgpt to learn as well, but sometimes, I see it make mistake.
 
 For example, I attached a transfomer's circuit once and it parsed the wrong dot notation, then I needed to correct it.
 
