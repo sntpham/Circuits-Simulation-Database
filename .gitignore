@@ -3,3 +3,9 @@
 *.raw
 *.net
 Draft[0-9].asc
+*.txt
+
+
+# Draft note
+*.hid.md
+
