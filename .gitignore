@@ -4,6 +4,7 @@
 *.net
 Draft[0-9].asc
 *.txt
+*.plt
 
 
 # Draft note
